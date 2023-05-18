@@ -1,4 +1,4 @@
-
+--TABLAS
 create database DBVENTABOLETOS
 go
 
