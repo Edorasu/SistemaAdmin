@@ -64,6 +64,10 @@ select * from NumeroCorrelativo
 --000001
 insert into NumeroCorrelativo(ultimoNumero,cantidadDigitos,gestion,fechaActualizacion) values
 (0,6,'venta',getdate())
+insert into NumeroCorrelativo(ultimoNumero,cantidadDigitos,gestion,fechaActualizacion) values
+(0,6,'reserva',getdate())
+insert into NumeroCorrelativo(ultimoNumero,cantidadDigitos,gestion,fechaActualizacion) values
+(0,6,'pago',getdate())
 
 
 --________________________________ INSERTAR MENUS ________________________________

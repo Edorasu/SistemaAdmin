@@ -1,0 +1,14 @@
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\bin\Debug\net6.0\SistemaBoletos.Entity.deps.json
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\bin\Debug\net6.0\SistemaBoletos.Entity.runtimeconfig.json
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\bin\Debug\net6.0\SistemaBoletos.Entity.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\bin\Debug\net6.0\SistemaBoletos.Entity.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.csproj.AssemblyReference.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.AssemblyInfoInputs.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.AssemblyInfo.cs
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\refint\SistemaBoletos.Entity.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\SistemaBoletos.Entity.genruntimeconfig.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.Entity\obj\Debug\net6.0\ref\SistemaBoletos.Entity.dll

@@ -1,0 +1,17 @@
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\bin\Debug\net6.0\SistemaBoletos.BLL.deps.json
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\bin\Debug\net6.0\SistemaBoletos.BLL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\bin\Debug\net6.0\SistemaBoletos.BLL.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.csproj.AssemblyReference.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.AssemblyInfoInputs.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.AssemblyInfo.cs
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.csproj.CoreCompileInputs.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\refint\SistemaBoletos.BLL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\ref\SistemaBoletos.BLL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\bin\Debug\net6.0\SistemaBoletos.DAL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\bin\Debug\net6.0\SistemaBoletos.Entity.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\bin\Debug\net6.0\SistemaBoletos.DAL.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\bin\Debug\net6.0\SistemaBoletos.Entity.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.BLL\obj\Debug\net6.0\SistemaBoletos.BLL.csproj.CopyComplete

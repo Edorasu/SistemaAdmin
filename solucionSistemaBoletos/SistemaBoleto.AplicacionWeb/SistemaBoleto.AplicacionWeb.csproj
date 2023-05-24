@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.13" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SistemaBoletos.BLL\SistemaBoletos.BLL.csproj" />
+    <ProjectReference Include="..\SistemaBoletos.Entity\SistemaBoletos.Entity.csproj" />
+    <ProjectReference Include="..\SistemaBoletos.IOC\SistemaBoletos.IOC.csproj" />
+  </ItemGroup>
+
+</Project>

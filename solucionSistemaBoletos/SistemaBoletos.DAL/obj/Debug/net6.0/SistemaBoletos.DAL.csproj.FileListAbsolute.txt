@@ -1,0 +1,15 @@
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\bin\Debug\net6.0\SistemaBoletos.DAL.deps.json
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\bin\Debug\net6.0\SistemaBoletos.DAL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\bin\Debug\net6.0\SistemaBoletos.DAL.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.csproj.AssemblyReference.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.AssemblyInfoInputs.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.AssemblyInfo.cs
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\refint\SistemaBoletos.DAL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\ref\SistemaBoletos.DAL.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\bin\Debug\net6.0\SistemaBoletos.Entity.dll
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\bin\Debug\net6.0\SistemaBoletos.Entity.pdb
+C:\Users\nelly\Documents\ProyectoAdmin\solucionSistemaBoletos\SistemaBoletos.DAL\obj\Debug\net6.0\SistemaBoletos.DAL.csproj.CopyComplete
